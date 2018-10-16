@@ -5,3 +5,4 @@
 #CSV Liste, die man exportieren und Speichern kann
 
 print ("das wird der timeTracker")
+print ("mal schauen was dabei raus kommt!")
